@@ -2,7 +2,7 @@
 BOT kicknew telegram Edited V.2 Login Token
 
 Catatan : 
-- Bot Ini Menggunakan hanya auto kick buat bot tch dsn itc bitcoin 
+- Bot Ini Menggunakan hanya  buat bot ltc & bch bitcoin 
 
 Cara Install Via Android :
 - Download Termux & Install<br>
@@ -25,7 +25,7 @@ Cara Membuka/Mengedit File :
 - Keluarkan Termux<br>
 
 Cara Menjalankan Bot :
-- cd bchnew && python main.py nomer phone<br>
+- cd bchnew && python main.py ( nomer phone)<br>
 Cohtoh python main.py +6282288165322
 
 Oke semoga bermanfaat.
