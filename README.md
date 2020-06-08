@@ -13,8 +13,10 @@ Cara Install Via Android :
 - pip install -r requests.txt<br>
 - pkg install git<br>
 - pkg install nano<br>
-- git clone https://github.com/mskarno/<br>
+- git clonehttps://github.com/mskarno/botklicknew.git<br>
+- unzip bchnew.zip
 - Selesai
+
 
 Cara Membuka/Mengedit File :
 
